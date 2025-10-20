@@ -1,0 +1,11 @@
+{
+  "task_type": "classification",
+  "model_parameters": 4129,
+  "device": "cpu",
+  "metrics": {
+    "accuracy": 0.8334910122989593,
+    "precision": 0.7919463087248322,
+    "recall": 0.8100686498855835,
+    "f1": 0.8009049773755657
+  }
+}

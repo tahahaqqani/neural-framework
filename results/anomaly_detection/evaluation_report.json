@@ -1,0 +1,11 @@
+{
+  "task_type": "anomaly_detection",
+  "model_parameters": 294,
+  "device": "cpu",
+  "metrics": {
+    "threshold": 2.0513925552368164,
+    "anomaly_rate": 0.10080645161290322,
+    "mean_reconstruction_error": 0.9975025057792664,
+    "std_reconstruction_error": 0.8536070585250854
+  }
+}
